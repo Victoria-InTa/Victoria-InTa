@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+}
+header{ position: absolute;
+    width: 100%;
+    height: 100%;
+    background: url(https://k40.kn3.net/5/3/B/3/C/E/29A.jpg) no-repeat center center fixed; 
+}
+nav{ position: absolute;
+   width: 100%;
+   height: 10%;
+   background: rgba(15, 15, 15, 0.904);
+}
+ul{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+span{ 
+
+    background-color: rgb(80, 226, 43);
+    width: 36px;
+    height: 30px;
+    border-radius: 50px;
+}
+.wasap{
+    position: absolute;
+    top: 9px;
+    font-size: 45px;
+    color: white;
+}
+.ak1{
+   color: yellowgreen;
+}
+.ak2{
+    color: rgb(205, 99, 50);
+}
+.ak3{
+    color: grey;
+}
+button{
+    border-radius: 30px;
+    color: white;
+    background-color: rgb(0, 255, 234);
+}
+.logo{
+    position: absolute;
+    top: 0px;
+}
+.hombre{
+    width: 40%;
+    position: absolute;
+    top: 100px;
+    right: 0px;
+}
+.texto{
+    position: absolute;
+    top: 250px;
+    left: 200px;
+}
+.p1{
+    color: white;
+    font-size: 27px;
+}
+.p2{
+    color: white;
+    font-size: 27px;
+}
+.p3{
+    color: rgb(21, 173, 184);
+}
+.p4{
+    color: white;
+    font-size: 40px;
+}
+.boton{
+    font-size: 25px;
+    border-radius: 10px;
+    border: 1px solid white;
+    background: rgba(255, 255, 255, 0);
+}
