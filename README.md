@@ -16,9 +16,9 @@ Soy un estudiante autodidacta del Desarrollo web. Empece en el 2020, me apasiona
 <hr>
 
 <ul>
-  <li>Actualmente estoy estudiando JavaScript</li>
-  <li>Soy freelance y trabajos en proyectos colaborativos</li>
-  <li>Como contactar conmigo:</li>
+  <li> 📚 Actualmente estoy estudiando JavaScript</li>
+  <li> 💻 Soy freelance y trabajos en proyectos colaborativos</li>
+  <li> 📲 Como contactar conmigo:</li>
 </ul>
 
 https://www.linkedin.com/in/ingrid-victoria-taborda-07733b1b0/
