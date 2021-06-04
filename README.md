@@ -1,6 +1,9 @@
-👋 ¡Hola ¿que tal?! 
-❤️ Programación | 🖤 Musica 
+![raw](https://user-images.githubusercontent.com/63382740/120858295-f7326100-c558-11eb-92bc-58824db95b98.gif)
 
-Soy una estudiante autodidacta, me encanta todo lo que trate de diseño web, empece en el 2020 a aprender las tecnologias basicas.
+👋 ¡Hola Mundo! 
 
-📚 My Stack
+❤️ Programación | 🖤 Anime |❤  Musica
+
+Soy un estudiante autodidacta del Desarrollo web. Empece en el 2020, me apasiona todo lo que tenga que ver con  diseño web.
+
+📚 My Skills
