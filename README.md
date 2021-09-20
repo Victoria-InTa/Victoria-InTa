@@ -5,10 +5,7 @@
 
 ❤️ Programación | 🖤 Anime |❤  Musica
 
-Soy un estudiante autodidacta del Desarrollo web. Empece en el 2020, me apasiona todo lo que tenga que ver con  diseño web.
-
-📚 My Skills
-
+Soy un estudiante de Ada lovelace y autodidacta en desarrollo web. Empece en el 2020, me apasiona todo lo que tenga que ver con  diseño web.
 <hr>
 
 <hr>
