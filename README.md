@@ -11,10 +11,9 @@ Soy un estudiante de Ada lovelace y autodidacta en desarrollo web. Empece en el 
 <hr>
 
 <ul>
-  <li> 📚 Actualmente estoy estudiando JavaScript</li>
-  <li> 💻 Soy freelance y trabajos en proyectos colaborativos</li>
+  <li> 💻 he trabajado en proyectos colaborativos</li>
   <li> 📲 Como contactar conmigo:</li>
 </ul>
-
-https://www.linkedin.com/in/ingrid-victoria-taborda-07733b1b0/
+<ul>
+  <li><span><i class="fab fa-linkedin"></i></span><a src"https://www.linkedin.com/in/ingrid-victoria-taborda-07733b1b0/"></a></li>
 
