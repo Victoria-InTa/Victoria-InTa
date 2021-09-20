@@ -15,5 +15,5 @@ Soy un estudiante de Ada lovelace y autodidacta en desarrollo web. Empece en el 
   <li> 📲 Como contactar conmigo:</li>
 </ul>
 <ul>
-  <li><span><i class="fab fa-linkedin"></i></span><a src"https://www.linkedin.com/in/ingrid-victoria-taborda-07733b1b0/"></a></li>
+  <li><a href="https://www.linkedin.com/in/ingrid-victoria-taborda-07733b1b0/"><i class="fab fa-linkedin"></i></a></li>
 
