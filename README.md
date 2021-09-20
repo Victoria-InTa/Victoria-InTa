@@ -11,9 +11,6 @@ Soy un estudiante autodidacta del Desarrollo web. Empece en el 2020, me apasiona
 
 <hr>
 
-![th](https://user-images.githubusercontent.com/63382740/122932323-0597bf80-d344-11eb-8206-fbfb40f25261.jpg)
-
-
 <hr>
 
 <ul>
